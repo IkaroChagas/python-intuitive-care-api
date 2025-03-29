@@ -2,11 +2,11 @@
 
 Este repositório contém o backend em Python responsável por processar dados de um arquivo CSV e disponibilizar uma API para consumo no front-end [VueJS](https://github.com/IkaroChagas/vue-intuitive-care-front).
 
-## Pré-requisitos
+## Pré-requisitos:
 
-- **Python 3.x** instalado
-- **pip** para gerenciamento de dependências
-- (Opcional) **Ambiente virtual** (virtualenv ou venv) para isolamento de dependências
+- Python >= 3.10.x instalado
+- `requirements.txt` ( pip install -r requirements.txt)
+- (Opcional) Ambiente virtual (virtualenv ou venv)
 
 ## Instalação
 
