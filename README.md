@@ -1,6 +1,6 @@
 # Python Intuitive Care API
 
-Este repositório contém o backend em Python responsável por processar dados de um arquivo CSV e disponibilizar uma API para consumo no front-end (VueJS).
+Este repositório contém o backend em Python responsável por processar dados de um arquivo CSV e disponibilizar uma API para consumo no front-end [VueJS](https://github.com/IkaroChagas/vue-intuitive-care-front).
 
 ## Pré-requisitos
 
